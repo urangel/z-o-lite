@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13c99f0009139811c128c77e952f542d",
+    "revision": "77c60d5fee5b56f91bf350e77df173d2",
     "url": "/urangel/z-o-lite/index.html"
   },
   {
