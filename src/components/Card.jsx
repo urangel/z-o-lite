@@ -8,7 +8,7 @@ const style = {
 
 function Card(props) {
   return (
-    <div className="card" style={style}  onChange={() =>props.handleShuffleRerender} onClick={() => props.handleClick(props.id)}>
+    <div className="card" style={style} onClick={() => props.handleClick(props.id)}>
       <img className="card-img-top" src={props.src} alt={props.img}/>
     </div>        
   )
