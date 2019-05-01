@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "img": "ACO",
+    "src": "/assets/images/zeoliteImages/ACO_001.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "img": "BEA",
+    "src": "/assets/images/zeoliteImages/BEA_100.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 3,
+    "img": "EAB",
+    "src": "/assets/images/zeoliteImages/EAB_110.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 4,
+    "img": "ETR",
+    "src": "/assets/images/zeoliteImages/ETR_001.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 5,
+    "img": "GOO",
+    "src": "/assets/images/zeoliteImages/GOO_110.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 6,
+    "img": "JNT",
+    "src": "/assets/images/zeoliteImages/JNT_100.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 7,
+    "img": "LOV",
+    "src": "/assets/images/zeoliteImages/LOV_100.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 8,
+    "img": "MAZ",
+    "src": "/assets/images/zeoliteImages/MAZ_001.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "img": "MRT",
+    "src": "/assets/images/zeoliteImages/MRT_100.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 10,
+    "img": "NSI",
+    "src": "/assets/images/zeoliteImages/NSI_010.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 11,
+    "img": "RRO",
+    "src": "/assets/images/zeoliteImages/RRO_proj_001.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 12,
+    "img": "PUN",
+    "src": "/assets/images/zeoliteImages/PUN_010.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 13,
+    "img": "SGT",
+    "src": "/assets/images/zeoliteImages/SGT.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 14,
+    "img": "SOD",
+    "src": "/assets/images/zeoliteImages/SOD_001.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 15,
+    "img": "SSO",
+    "src": "/assets/images/zeoliteImages/SSO_010.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 16,
+    "img": "YFI",
+    "src": "/assets/images/zeoliteImages/YFI_100.jpg",
+    "clicked": false
+
+  }
+]
