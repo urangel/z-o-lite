@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/urangel/z-o-lite/static/css/main.584f321a.chunk.css",
-    "main.js": "/urangel/z-o-lite/static/js/main.c63aff69.chunk.js",
-    "main.js.map": "/urangel/z-o-lite/static/js/main.c63aff69.chunk.js.map",
+    "main.css": "/urangel/z-o-lite/static/css/main.795991f2.chunk.css",
+    "main.js": "/urangel/z-o-lite/static/js/main.ff74a865.chunk.js",
+    "main.js.map": "/urangel/z-o-lite/static/js/main.ff74a865.chunk.js.map",
     "runtime~main.js": "/urangel/z-o-lite/static/js/runtime~main.f11fd48f.js",
     "runtime~main.js.map": "/urangel/z-o-lite/static/js/runtime~main.f11fd48f.js.map",
     "static/js/2.884c28c3.chunk.js": "/urangel/z-o-lite/static/js/2.884c28c3.chunk.js",
     "static/js/2.884c28c3.chunk.js.map": "/urangel/z-o-lite/static/js/2.884c28c3.chunk.js.map",
     "index.html": "/urangel/z-o-lite/index.html",
-    "precache-manifest.8d78a32ed3c4a00df3b49a15267a9acb.js": "/urangel/z-o-lite/precache-manifest.8d78a32ed3c4a00df3b49a15267a9acb.js",
+    "precache-manifest.854ff129e6cb97af1fa7d4e866ba32ee.js": "/urangel/z-o-lite/precache-manifest.854ff129e6cb97af1fa7d4e866ba32ee.js",
     "service-worker.js": "/urangel/z-o-lite/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/urangel/z-o-lite/static/css/main.584f321a.chunk.css.map"
+    "static/css/main.795991f2.chunk.css.map": "/urangel/z-o-lite/static/css/main.795991f2.chunk.css.map"
   }
 }
