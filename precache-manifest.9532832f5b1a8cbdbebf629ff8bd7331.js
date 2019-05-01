@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44ccc6fe7e59e57ae8692bcce7a57456",
+    "revision": "ebc9a1d6b1cf888808ef33766ed4ef6f",
     "url": "/urangel/z-o-lite/index.html"
   },
   {
-    "revision": "c8225255881c2dbb402a",
+    "revision": "0d3a1f737ee5d2dfff58",
     "url": "/urangel/z-o-lite/static/css/main.795991f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/urangel/z-o-lite/static/js/2.884c28c3.chunk.js"
   },
   {
-    "revision": "c8225255881c2dbb402a",
-    "url": "/urangel/z-o-lite/static/js/main.ff74a865.chunk.js"
+    "revision": "0d3a1f737ee5d2dfff58",
+    "url": "/urangel/z-o-lite/static/js/main.f97f4d08.chunk.js"
   },
   {
     "revision": "4de7a47319218b1e5149",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/urangel/z-o-lite/precache-manifest.854ff129e6cb97af1fa7d4e866ba32ee.js"
+  "/urangel/z-o-lite/precache-manifest.9532832f5b1a8cbdbebf629ff8bd7331.js"
 );
 
 self.addEventListener('message', (event) => {
